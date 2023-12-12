@@ -1,6 +1,5 @@
 # SQL-MongoDB-manipulation-with-Python
  ## In this project, I manipulated some data by transporting it from one database to another using SQL commands with the Python language.
-<br><br>
  ### First demand
   The first demand was requested by our data science team, where they were asked to make the company's raw data available so that they could carry out analysis.
 <br><br>
