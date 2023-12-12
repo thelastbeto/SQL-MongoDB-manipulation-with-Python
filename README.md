@@ -9,7 +9,6 @@
   Firstly, I verified that the data had a key and value format resembling Python dictionaries and also JSON formats. With this, I came to the conclusion that the best option
 for availability it would be in MongoDB.
 <br><br>
-<br><br>
 ### Second demand
   The second demand was requested by our BI team, in which they need this data processed and structured in a database so that they can make insights
 and analyzes in order to offer a better vision for the company.
